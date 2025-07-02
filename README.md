@@ -8,3 +8,4 @@
 > 
 > ***and other important policies covering our games, apps, music, and game assets.***
 
+### Visit the [Live Info Hub Website Here](https://kuroyukidev.github.io/kydevgameshub/)!
